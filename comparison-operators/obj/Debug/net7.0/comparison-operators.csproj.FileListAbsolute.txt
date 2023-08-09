@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\bin\Debug\net7.0\comparison-operators.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\bin\Debug\net7.0\comparison-operators.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\bin\Debug\net7.0\comparison-operators.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\bin\Debug\net7.0\comparison-operators.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\bin\Debug\net7.0\comparison-operators.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\refint\comparison-operators.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\comparison-operators.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\comparison-operators\obj\Debug\net7.0\ref\comparison-operators.dll

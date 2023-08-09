@@ -15,3 +15,122 @@ In this lesson, we’ll explore how Boolean logic works in C# and show you how y
 
 ===================================================================================================================================================================
 
+* Boolean Data Types
+--------------------
+In C#, we can represent Boolean values using the bool data type. Booleans, unlike numbers or strings, only have two values: true and false.
+
+To define a variable as a boolean, you define the data type as bool. Then write the variable name and set it equal to the value, either true or false:
+
+	bool variableName = true;
+ 
+The variable is named variableName, its of type bool, and its value is true.
+
+While we use the words true and false to represent boolean values, it’s important to remember that they are different from the strings "true" and "false".
+
+Program.cs
+----------
+using System;
+
+namespace BooleanDataTypes
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+          bool answerOne = true;
+          bool answerTwo = false;
+        }
+    }
+}
+
+==================================================================================================================================================================
+
+* Comparison Operators
+----------------------
+When writing a program, we often need to check if a value is correct or compare two values. Comparison operators allow us to compare values and evaluate their relationship. Rather than 
+evaluating to an integer, they evaluate to boolean values. Expressions that evaluate to boolean values are known as boolean expressions.
+
+Comparison operators include:
+
+	. Equals ==: returns true if the value to the left is equal to the value to the right.
+
+	. Inequality operator !=: returns true if the two values are not equal.
+
+	. Less than <: returns true if the value to the left is less than the value to the right.
+
+	. Greater than >: returns true if the value to the left is more than the value to the right.
+
+	. Less than or equal to <=: returns true if the value to the left is less than or equal to the value on the right.
+
+	. Greater than or equal to >=: returns true if the value to the left is more than or equal to the value to the right.
+
+Here’s what a boolean expression using comparison operators can look like:
+
+	bool answer = 3 < 75; 
+	Console.WriteLine(answer); // prints True
+ 
+In this example, we use the less than < comparison operator to compare the values 3 and 75, then save the expression to a variable named answer with a bool data type. If we were to print 
+the value of answer to the console, it would print out True, since the number 3 is less than the number 75.
+
+In addition to comparing integers, we can also compare variables, strings, and even boolean values:
+
+	bool answer = (true == false);
+	Console.WriteLine(answer); //prints False
+ 
+Here, we use the equals comparison operator to see if the Boolean value true is equal to false. This time, the expression evaluates to false. We’ll look more into comparing boolean values 
+in the next exercise.
+
+Program.cs
+----------
+using System;
+
+namespace ComparisonOperators
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      double timeToDinner = 4;
+      double distance = 95;
+      double rate = 30;
+      double tripDuration = distance / rate;
+      bool answer = tripDuration <= timeToDinner;
+      Console.WriteLine(answer);
+    }
+  }
+}
+
+==================================================================================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

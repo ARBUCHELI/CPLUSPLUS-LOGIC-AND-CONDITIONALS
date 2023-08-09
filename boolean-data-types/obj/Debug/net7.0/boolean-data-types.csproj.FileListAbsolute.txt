@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\bin\Debug\net7.0\boolean-data-types.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\bin\Debug\net7.0\boolean-data-types.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\bin\Debug\net7.0\boolean-data-types.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\bin\Debug\net7.0\boolean-data-types.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\bin\Debug\net7.0\boolean-data-types.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\refint\boolean-data-types.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\boolean-data-types.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\boolean-data-types\obj\Debug\net7.0\ref\boolean-data-types.dll
