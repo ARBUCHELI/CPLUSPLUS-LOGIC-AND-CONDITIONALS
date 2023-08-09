@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\bin\Debug\net7.0\logical-operators.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\bin\Debug\net7.0\logical-operators.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\bin\Debug\net7.0\logical-operators.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\bin\Debug\net7.0\logical-operators.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\bin\Debug\net7.0\logical-operators.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\refint\logical-operators.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\logical-operators.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\logical-operators\obj\Debug\net7.0\ref\logical-operators.dll
