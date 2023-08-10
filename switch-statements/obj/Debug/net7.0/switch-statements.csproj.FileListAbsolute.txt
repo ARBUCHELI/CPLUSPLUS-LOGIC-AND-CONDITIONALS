@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\bin\Debug\net7.0\switch-statements.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\bin\Debug\net7.0\switch-statements.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\bin\Debug\net7.0\switch-statements.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\bin\Debug\net7.0\switch-statements.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\bin\Debug\net7.0\switch-statements.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\refint\switch-statements.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\switch-statements.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\switch-statements\obj\Debug\net7.0\ref\switch-statements.dll
