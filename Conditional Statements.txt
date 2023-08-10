@@ -1,0 +1,30 @@
+# CONDITIONAL STATEMENTS
+------------------------
+
+* Introduction to Conditional Statements
+----------------------------------------
+We make decisions all the time in our life based on different conditions. Are you going to drink tea or coffee? Study history or biology? Buy a new shirt or save your money?
+
+We can program computers to make decisions based on different conditions. We can specify to the computer the order in which it should execute certain instructions, or that it should only 
+execute certain instructions in specific cases. That means that depending on the conditions, the instructions that our program executes can change.
+
+The order that computer programs execute a set of instructions is known as control flow. We can use different control structures to alter the flow of our program. Control structures let 
+us handle different situations that might arise and make our programs more flexible. In C#, these type of statements are known as conditional or selection statements.
+
+Boolean logic and conditional statements go hand in hand. A computer will determine if a condition is true or false and execute a set of instructions accordingly. Make sure that you’re 
+comfortable with Boolean values, comparison operators, and logical operators!
+
+We’ll look at a couple of different structures that use Boolean logic to control the flow of our programs, including:
+
+	. If statements
+
+	. If…Else… statements
+
+	. Else if statements
+
+	. Switch statements
+
+	. Ternary Operators
+
+===================================================================================================================================================================
+
