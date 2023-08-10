@@ -1,0 +1,15 @@
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\bin\Debug\net7.0\if-statements.exe
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\bin\Debug\net7.0\if-statements.deps.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\bin\Debug\net7.0\if-statements.runtimeconfig.json
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\bin\Debug\net7.0\if-statements.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\bin\Debug\net7.0\if-statements.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.csproj.AssemblyReference.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.AssemblyInfoInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.AssemblyInfo.cs
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.csproj.CoreCompileInputs.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\refint\if-statements.dll
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.pdb
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\if-statements.genruntimeconfig.cache
+C:\Users\Andres R. Bucheli\Desktop\SOFTWARE ENGINEER\CODECADEMY\CODECADEMY LEARN C# INTRODUCTION\LEARN C# LOGIC AND CONDITIONALS\if-statements\obj\Debug\net7.0\ref\if-statements.dll
