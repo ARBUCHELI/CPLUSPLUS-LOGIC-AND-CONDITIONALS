@@ -1,2 +1,15 @@
-﻿
-//The code will be here
+﻿using System;
+
+namespace TernaryOperator
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      int pepperLength = 4;
+      string message;
+      message = (pepperLength >= 3.5) ? "ready!" : "wait a little longer";
+      Console.WriteLine(message);
+    }
+  }
+}
